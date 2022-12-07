@@ -1,0 +1,11 @@
+{
+    "name": "ProfileLinks extension",
+    "version": "1.0",
+    "description": "Basic Extension with handy links!",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "link.png"
+    },
+    "manifest_version": 2
+  }
